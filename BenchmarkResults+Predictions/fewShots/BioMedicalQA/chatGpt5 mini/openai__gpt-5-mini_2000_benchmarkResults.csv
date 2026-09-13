@@ -1,0 +1,2 @@
+model,prompting,split,accuracy,precision,recall,f1,valid,total,avg_latency
+openai/gpt-5-mini,4-shot,overall,0.8061224489795918,0.46768707482993194,0.47413116123642435,0.4700124607172332,2000,2000,1.1805130308877863

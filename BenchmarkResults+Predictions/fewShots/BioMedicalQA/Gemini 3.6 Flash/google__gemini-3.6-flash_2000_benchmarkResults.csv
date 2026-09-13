@@ -1,0 +1,2 @@
+model,prompting,split,accuracy,precision,recall,f1,valid,total,avg_latency
+google/gemini-3.6-flash,4-shot,overall,0.8873239436619719,0.46709268991877684,0.4447636300897171,0.4555531757930559,2000,2000,1.4521245564693968

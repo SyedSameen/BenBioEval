@@ -1,0 +1,2 @@
+model,prompting,split,accuracy,precision,recall,f1,valid,total,avg_latency
+deepseek/deepseek-v4-flash,4-shot,overall,0.8979591836734694,0.7628693528693528,0.7764376218323586,0.7688461538461538,2000,2000,1.6038080798265006

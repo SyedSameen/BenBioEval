@@ -1,0 +1,2 @@
+model,prompting,split,accuracy,precision,recall,f1,valid,total,avg_latency
+qwen/qwen3.7-plus,4-shot,overall,0.8673469387755102,0.6438775510204081,0.6481370091896407,0.6455974297811033,2000,2000,0.9497476316837121

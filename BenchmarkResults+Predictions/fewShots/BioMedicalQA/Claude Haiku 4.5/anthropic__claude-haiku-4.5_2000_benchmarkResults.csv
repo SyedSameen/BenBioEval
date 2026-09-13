@@ -1,0 +1,2 @@
+model,prompting,split,accuracy,precision,recall,f1,valid,total,avg_latency
+anthropic/claude-haiku-4.5,4-shot,overall,0.826530612244898,0.57375,0.6600730994152046,0.6020577877720735,2000,2000,0.8861200417040844
