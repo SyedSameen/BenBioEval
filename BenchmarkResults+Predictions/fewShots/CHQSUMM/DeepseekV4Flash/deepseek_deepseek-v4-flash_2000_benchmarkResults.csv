@@ -1,0 +1,2 @@
+model,prompting,sample_size,BLEU,ROUGE-1,ROUGE-2,ROUGE-L,METEOR,BERTScore,total_evaluated,avg_latency_s,reasoning_on_count,reasoning_on_pct,avg_reasoning_tokens,total_reasoning_tokens,avg_total_tokens,grand_total_tokens
+deepseek/deepseek-v4-flash,3-shot,198,43.51,38.93,15.96,35.66,32.01,91.35,2000,2.67,0,0.0,0,0,879.2,174076

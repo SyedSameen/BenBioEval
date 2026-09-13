@@ -1,0 +1,2 @@
+model,prompting,sample_size,BLEU,ROUGE-1,ROUGE-2,ROUGE-L,METEOR,BERTScore,total_evaluated,avg_latency_s,reasoning_on_count,reasoning_on_pct,avg_reasoning_tokens,total_reasoning_tokens,avg_total_tokens,grand_total_tokens
+qwen/qwen3.7-plus,3-shot,198,42.46,38.58,15.08,34.44,30.33,90.98,2000,2.503,0,0.0,0,0,957.0,189484

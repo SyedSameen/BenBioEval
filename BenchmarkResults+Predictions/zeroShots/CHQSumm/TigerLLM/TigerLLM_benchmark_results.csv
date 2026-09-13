@@ -1,0 +1,2 @@
+﻿model,ROUGE-1,ROUGE-2,ROUGE-L,BERTScore,total_sentences,avg_latency_s
+md-nishat-008/TigerLLM-9B-it,28.88,10.27,26.11,89.61,2000,13.933

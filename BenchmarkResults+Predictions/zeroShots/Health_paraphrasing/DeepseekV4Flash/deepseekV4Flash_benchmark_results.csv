@@ -1,0 +1,2 @@
+﻿model,BLEU,ROUGE-1 (F1),ROUGE-2 (F1),ROUGE-L (F1),METEOR,total_sentences,avg_latency_s
+deepseek/deepseek-chat-v4-5-flash,0.1549,0.4555,0.2111,0.4175,0.3922,1915,4.8778

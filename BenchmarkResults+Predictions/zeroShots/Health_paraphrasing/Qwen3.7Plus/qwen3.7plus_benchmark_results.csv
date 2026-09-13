@@ -1,0 +1,2 @@
+﻿model,BLEU,ROUGE-1 (F1),ROUGE-2 (F1),ROUGE-L (F1),METEOR,total_sentences,avg_latency_s
+qwen/qwen3.7-plus,0.1016,0.3973,0.1583,0.3632,0.3413,1995,30.1364

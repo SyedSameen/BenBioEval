@@ -1,0 +1,2 @@
+model,prompting,sample_size,BLEU,ROUGE-1,ROUGE-2,ROUGE-L,METEOR,BERTScore,total_evaluated,avg_latency_s,reasoning_on_count,reasoning_on_pct,avg_reasoning_tokens,total_reasoning_tokens,avg_total_tokens,grand_total_tokens
+openai/gpt-5-mini,3-shot,198,33.02,26.2,8.26,23.99,22.37,89.9,2000,2.241,0,0.0,0,0,807.3,159846

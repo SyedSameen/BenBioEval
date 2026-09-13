@@ -1,0 +1,2 @@
+﻿model,accuracy,precision,recall,f1,confusion_matrix,valid_predictions,total,avg_latency
+qwen/qwen3.7-plus,0.8295,0.7989130434782609,0.8811188811188811,0.8380047505938242,"[[777, 222], [119, 882]]",2000,2000,11.471755466721513

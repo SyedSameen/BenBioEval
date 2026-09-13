@@ -1,0 +1,2 @@
+﻿model,token_accuracy,f1_weighted,precision_weighted,recall_weighted,total_sentences,avg_latency_s
+qwen/qwen3.7-plus,0.8005623931382385,0.34357486404498094,0.30852393360867125,0.39613435916682305,2000,47.33230685983299

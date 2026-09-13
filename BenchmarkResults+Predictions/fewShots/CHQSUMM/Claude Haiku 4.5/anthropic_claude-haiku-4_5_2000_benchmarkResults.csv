@@ -1,0 +1,2 @@
+model,prompting,sample_size,BLEU,ROUGE-1,ROUGE-2,ROUGE-L,METEOR,BERTScore,total_evaluated,avg_latency_s,reasoning_on_count,reasoning_on_pct,avg_reasoning_tokens,total_reasoning_tokens,avg_total_tokens,grand_total_tokens
+anthropic/claude-haiku-4.5,3-shot,198,41.49,31.81,12.15,29.3,27.07,91.39,2000,1.915,0,0.0,0,0,1584.0,304126
