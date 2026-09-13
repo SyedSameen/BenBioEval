@@ -1,0 +1,2 @@
+﻿model,token_accuracy,f1_weighted,precision_weighted,recall_weighted,total_sentences,avg_latency_s
+deepseek/deepseek-v4-flash,0.7600503045118625,0.1667096416202236,0.2125249461753378,0.13905047851379246,2000,7.536573014732494

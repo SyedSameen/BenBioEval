@@ -1,0 +1,2 @@
+﻿model,ROUGE-1,ROUGE-2,ROUGE-L,BERTScore,total_sentences,avg_latency_s
+qwen/qwen3.7-plus,24.71,7.95,22.06,89.52,2000,2.234

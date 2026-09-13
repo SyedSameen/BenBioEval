@@ -1,0 +1,2 @@
+model,prompting,sample_size,BLEU,ROUGE-1,ROUGE-2,ROUGE-L,METEOR,BERTScore,total_evaluated,avg_latency_s,reasoning_on_count,reasoning_on_pct,avg_reasoning_tokens,total_reasoning_tokens,avg_total_tokens,grand_total_tokens
+mistralai/mistral-large-2512,3-shot,198,45.27,40.43,15.52,36.41,30.97,91.25,2000,2.1,0,0.0,0,0,919.7,182098

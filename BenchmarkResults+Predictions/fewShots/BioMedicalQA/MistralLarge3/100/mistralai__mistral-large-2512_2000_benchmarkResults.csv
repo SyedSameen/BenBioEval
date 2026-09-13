@@ -1,0 +1,2 @@
+model,prompting,split,accuracy,precision,recall,f1,valid,total,avg_latency
+mistralai/mistral-large-2512,4-shot,overall,0.8571428571428571,0.5730736207526489,0.5593786549707602,0.5649038461538461,2000,2000,0.7810971582346922

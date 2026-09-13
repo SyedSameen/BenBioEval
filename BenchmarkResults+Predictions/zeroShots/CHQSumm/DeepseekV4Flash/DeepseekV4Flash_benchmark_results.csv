@@ -1,0 +1,2 @@
+﻿model,ROUGE-1,ROUGE-2,ROUGE-L,BERTScore,total_sentences,avg_latency_s
+deepseek/deepseek-v4-flash,28.49,10.34,26.21,90.69,2000,4.092

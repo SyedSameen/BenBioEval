@@ -1,0 +1,2 @@
+model,prompting,sample_size,BLEU,ROUGE-1,ROUGE-2,ROUGE-L,METEOR,BERTScore,total_evaluated,avg_latency_s,reasoning_on_count,reasoning_on_pct,avg_reasoning_tokens,total_reasoning_tokens,avg_total_tokens,grand_total_tokens
+meta-llama/llama-4-maverick,3-shot,198,44.59,41.03,16.22,37.1,32.32,91.4,2000,1.801,0,0.0,0,0,909.5,180090

@@ -1,0 +1,2 @@
+﻿model,accuracy,precision,recall,f1,confusion_matrix,valid_predictions,total,avg_latency
+deepseek/deepseek-v4-flash,0.824438202247191,0.8264462809917356,0.8287292817679558,0.8275862068965517,"[[574, 126], [124, 600]]",1424,2000,2.1326640048585084

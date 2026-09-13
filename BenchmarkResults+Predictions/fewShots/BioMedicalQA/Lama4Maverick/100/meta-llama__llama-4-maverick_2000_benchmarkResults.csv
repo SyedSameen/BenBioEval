@@ -1,0 +1,2 @@
+model,prompting,split,accuracy,precision,recall,f1,valid,total,avg_latency
+meta-llama/llama-4-maverick,4-shot,overall,0.8775510204081632,0.45195784600389866,0.45195784600389866,0.45195784600389866,2000,2000,0.4824420734387842

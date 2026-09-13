@@ -1,0 +1,2 @@
+﻿model,token_accuracy,f1_weighted,precision_weighted,recall_weighted,total_sentences,avg_latency_s
+anthropic/claude-haiku-4.5,0.7490285294408568,0.21445929316316842,0.1632181607185782,0.31882154250328393,2000,1.4034348958439964
