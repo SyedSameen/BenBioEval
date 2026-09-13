@@ -1,0 +1,30 @@
+meta-llama/llama-4-maverick
+qwen/qwen3.7-plus
+mistralai/mistral-large-2512
+deepseek/deepseek-v4-flash
+anthropic/claude-haiku-4.5
+google/gemini-3.6-flash
+openai/gpt-5-mini
+
+
+
+gemini 3.6Flash payload
+payload = {
+      "model": model,
+      "messages": [
+          {"role": "system", "content": SYSTEM_PROMPT},
+          {"role": "user",   "content": user_message},
+      ],
+      "max_completion_tokens": 1500, 
+      "reasoning_effort": "minimal",
+}
+gpt5mini payload
+payload = {
+      "model": model,
+      "messages": [
+          {"role": "system", "content": SYSTEM_PROMPT},
+          {"role": "user",   "content": user_message},
+      ],
+      "max_completion_tokens": 1500,
+      "reasoning_effort": "minimal"
+ }
